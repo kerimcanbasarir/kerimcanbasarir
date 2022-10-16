@@ -11,8 +11,5 @@
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerimcanbasarir&show_icons=true&locale=en" alt="turhancan97" /></p>
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kerimcanbasarir&border_radius=80)](https://git.io/streak-stats)
-</div>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimcanbasarir&show_icons=true&locale=en&layout=compact" alt="kerimcanbasarir" /></p>
